@@ -1,0 +1,3 @@
+Using this file a user can get his facebook access token with the default permissions, in order to have extended permissions more clicks need to be made manually by user once. 
+These usually last for about 2 hours so each can be put in a database with timestamp and re-pulled if it expires.
+
